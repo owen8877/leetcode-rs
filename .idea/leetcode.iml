@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/problem-1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/problem-2/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/problem-3/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/problem-4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/problem-5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/problem-6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/problem-7/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/problem-8/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/problem-9/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/problem-10/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/src/problem-1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/problem-10/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/problem-2/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/problem-3/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/problem-4/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/problem-5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/problem-6/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/problem-7/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/problem-8/target" />
+      <excludeFolder url="file://$MODULE_DIR$/src/problem-9/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
