@@ -3,56 +3,6 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-1/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-2/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-3/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-4/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-5/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-6/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-7/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-8/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-9/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-10/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/daily-2020-06-04/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-11/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-12/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/daily-2020-06-06/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/daily-2020-06-07/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-13/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-14/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-15/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-16/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-17/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/daily-2020-06-09/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/daily-2020-06-11/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/daily-2020-06-13/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-18/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/problem-19/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/src/daily-2020-06-04/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/daily-2020-06-06/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/daily-2020-06-07/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/daily-2020-06-09/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/daily-2020-06-11/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/daily-2020-06-13/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-1/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-10/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-11/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-12/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-13/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-14/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-15/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-16/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-17/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-18/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-19/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-2/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-3/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-4/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-5/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-6/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-7/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-8/target" />
-      <excludeFolder url="file://$MODULE_DIR$/src/problem-9/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
